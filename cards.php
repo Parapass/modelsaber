@@ -233,6 +233,9 @@ function makeSingleCard ($name, $author, $type, $link, $filename, $imageUrl, $im
     case "platform":
       $superType = 'Platforms';
       break;
+    case "wall":
+      $superType = 'Walls';
+      break;
   }
   $tagList = rtrim($tagList, ',');
   $tagList = strtolower($tagList);
