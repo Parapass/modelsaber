@@ -104,6 +104,12 @@ EOF;
             <span>Platforms</span>
           </a>
         </li>
+        <li>
+          <a href="/Walls">
+            <span class="icon is-small"><i class="fas fa-wall" aria-hidden="true"></i></span>
+            <span>Walls</span>
+          </a>
+        </li>
       </ul>
     </div>
     <!-- End Tabs -->
